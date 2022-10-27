@@ -1,5 +1,6 @@
 # micro bits!
 Open this page at https://ngagnonsci.github.io/servo-puppetry/
+Follow or test the tutorial at https://makecode.microbit.org/#tutorial:github:ngagnonsci/servo-puppetry/README
 
 ## Welcome! @showdialog
 Welcome to the micro:bit! A small circuit board that we can program to do some wonderful and fun things!
