@@ -15,5 +15,3 @@ Congratulations, you did it!
 ## Step 3 
 
 Try it out!!!
-Type a name for your project
-servo-puppetry
