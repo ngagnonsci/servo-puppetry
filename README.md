@@ -1,19 +1,31 @@
-# My Tutorial
 
-## Step 1
+> Open this page at [https://ngagnonsci.github.io/servo-puppetry/](https://ngagnonsci.github.io/servo-puppetry/)
 
-Here is some text.
+## Use as Extension
 
-```blocks
-let a = "a"
-```
+This repository can be added as an **extension** in MakeCode.
 
-## Step 2
+* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* click on **New Project**
+* click on **Extensions** under the gearwheel menu
+* search for **https://github.com/ngagnonsci/servo-puppetry** and import
 
-Congratulations, you did it!
+## Edit this project ![Build status badge](https://github.com/ngagnonsci/servo-puppetry/workflows/MakeCode/badge.svg)
 
-## Step 3 
+To edit this repository in MakeCode.
 
-Try it out!!!
-Type a name for your project
-servo-puppetry
+* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* click on **Import** then click on **Import URL**
+* paste **https://github.com/ngagnonsci/servo-puppetry** and click import
+
+## Blocks preview
+
+This image shows the blocks code from the last commit in master.
+This image may take a few minutes to refresh.
+
+![A rendered view of the blocks](https://github.com/ngagnonsci/servo-puppetry/raw/master/.github/makecode/blocks.png)
+
+#### Metadata (used for search, rendering)
+
+* for PXT/microbit
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
