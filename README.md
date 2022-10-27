@@ -2,6 +2,10 @@
 Open this page at [https://ngagnonsci.github.io/servo-puppetry/](https://ngagnonsci.github.io/servo-puppetry/)
 Load this as a tutorial at [https://makecode.microbit.org/#tutorial:github:ngagnonsci/servo-puppetry/README](https://makecode.microbit.org/#tutorial:github:ngagnonsci/servo-puppetry/README)
 
+```package
+microbit-servos
+```
+
 ## Welcome! @showdialog
 Welcome to the micro:bit! A small circuit board that we can program to do some wonderful and fun things!
 Click "Ok" when you instructor tells the whole class to.
