@@ -1,4 +1,5 @@
 # micro bits!
+Open this page at https://ngagnonsci.github.io/servo-puppetry/
 
 ## Welcome! @showdialog
 Welcome to the micro:bit! A small circuit board that we can program to do some wonderful and fun things!
@@ -34,4 +35,3 @@ From the ``||servos:servos||`` category, drag a ``||servos:set servo ___ angle t
 servos.P0.setAngle(90)
 ```
 
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
