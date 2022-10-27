@@ -9,15 +9,16 @@ Click "Ok" when you instructor tells the whole class to.
 We can change the LEDs on the micro:bit to nearly anything we want. Let's have our make a greeting for when it first starts up. Click next.
 
 ## Step 2
-Grab a ``||basic:show string||`` block from the ``||basic:basic||`` category. Change what the string says, and drag it into the ``||basic:on start||`` block on the right side of the screen.
+Grab a ``||basic:show string (   )||`` block from the ``||basic:basic||`` category. Change what the string says, and drag it into the ``||basic:on start||`` block on the right side of the screen.
 ```blocks
-basic.showString("Hello!!!")```
+basic.showString("Hello!!!")
+```
 
 ## Step 3
 Download your code and see how it changes on the micro:bit.
 
 ## Step 4
-After you've done that, change the message in the ``||basic:show string||`` to your name and download the code again.
+After you've done that, change the message in the ``||basic:show string('hello')||`` to your name and download the code again.
 
 ## Step 5 @showdialog
 Great job! Let's get some movement into our programming too. Attach the alligator clips of your servo to the micro:bit.
@@ -28,10 +29,10 @@ We want our servo to move every time we press a button, so drag the ``||input:on
 ```blocks
 input.onButtonPressed(Button.A, function () {
 	
-})```
+})
+```
 ## Step 7 
 From the ``||servos:servos||`` category, drag a ``||servos:set servo ___ angle to ___||`` into the ``||input:onButtonPressed()||`` code.
 ```blocks
 servos.P0.setAngle(90)
 ```
-
