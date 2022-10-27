@@ -1,14 +1,14 @@
 
 > Open this page at [https://ngagnonsci.github.io/servo-puppetry/](https://ngagnonsci.github.io/servo-puppetry/)
 
-## Use as Extension
+## Step 1
 
-This repository can be added as an **extension** in MakeCode.
+Delete everything from the README and add the tutorial
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/ngagnonsci/servo-puppetry** and import
+## Step 2
+Grab a ``||basic:show string||`` block from the ``||basic:basic||`` category. Change what the string says, and drag it into the ``||basic:on start||`` block on the right side of the screen.
+```blocks
+basic.showString("Hello!!!")```
 
 ## Edit this project ![Build status badge](https://github.com/ngagnonsci/servo-puppetry/workflows/MakeCode/badge.svg)
 
