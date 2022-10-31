@@ -5,8 +5,9 @@ This is a project created for workshops at the Connecticut Science Center with s
 As more projects / tutorials are updated, they can be found here.
 
 ## Tutorials
-* servo-puppetry v1 [markdown tutorial](/servo-puppetry/beginner-servo) 
 * servo-puppetry v1 [makecode editor tutorial](https://makecode.microbit.org/beta#tutorial:github:ngagnonsci/servo-puppetry/beginner-servo)
+
+* servo-puppetry v1 [markdown / webpage tutorial](/servo-puppetry/beginner-servo) 
 
 
 ## Blocks preview
