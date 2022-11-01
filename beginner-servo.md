@@ -27,6 +27,7 @@ Great job! Let's get some movement into our programming too. Attach the alligato
 * Black wire to "GND" 
 * Red wire to "3V"
 * White wire to "0"
+![Wiring Diagram](images/servo-wiring-example.jpg)
 
 ## Step 6
 We want our servo to move every time we press a button, so drag the ``||input:on button A pressed||`` from the ``||input:Input||`` category into your workspace.
@@ -65,3 +66,5 @@ servos.P0.setAngle(65)
 ## Finished! @showdialog
 Great job! Finish this tutorial and remember to download the code onto your micro:bit. 
 * What can you attach to the servo arm to make something fun out of this movement?
+
+![Servo Example](images/servo-arm-example.gif)
