@@ -27,7 +27,7 @@ Great job! Let's get some movement into our programming too. Attach the alligato
 * Black wire to "GND" 
 * Red wire to "3V"
 * White wire to "0"
-![Wiring Diagram](images/servo-wiring-example.jpg)
+* ![Wiring Diagram](images/servo-wiring-example.jpg)
 
 ## Step 6
 We want our servo to move every time we press a button, so drag the ``||input:on button A pressed||`` from the ``||input:Input||`` category into your workspace.
