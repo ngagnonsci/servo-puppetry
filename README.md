@@ -5,6 +5,7 @@ This is a project created for workshops at the Connecticut Science Center with s
 As more projects / tutorials are updated, they can be found here.
 
 ## Tutorials
+
 **Servo-puppetry v1** | [makecode editor tutorial](https://makecode.microbit.org/beta#tutorial:github:ngagnonsci/servo-puppetry/beginner-servo) | [webpage tutorial](/servo-puppetry/beginner-servo) 
 
 **To remove code between classes** | [blank micro:bit code](https://makecode.microbit.org/_RRiDe62eRFmH)
