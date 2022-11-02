@@ -7,17 +7,17 @@ Welcome to the micro:bit! A small circuit board that we can program to do some w
 Click "Ok" when you instructor tells the whole class to.
 
 ## Step 1 
-We can change the LEDs on the micro:bit to nearly anything we want. Let's have our make a greeting for when it first starts up. Click next.
+We can change the LEDs on the micro:bit to nearly anything we want. Let's have add a greeting for when it first starts up. Click next.
 
 
 ## Step 2
-Grab a ``||basic:show string (   )||`` block from the ``||basic:basic||`` category. rag it into the ``||basic:on start||`` block on the right side of the screen and change what the string says.
+Grab a ``||basic:show string (   )||`` block from the ``||basic:basic||`` category. Drag it into the ``||basic:on start||`` block on the right side of the screen and change what the string says.
 ```blocks
 basic.showString("Hello!!!")
 ```
 
 ## Step 3
-Download your code by clicking the button on the bottom of your screen to see how it changes on the micro:bit.
+Download your code by clicking the button on the bottom left of the screen to see how it changes on the micro:bit.
 
 ## Step 4
 After you've done that, change the message in the ``||basic:show string('hello')||`` to your name and download the code again.
