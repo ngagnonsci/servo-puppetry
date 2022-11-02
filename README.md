@@ -6,8 +6,8 @@ As more projects / tutorials are updated, they can be found here.
 
 ## Tutorials
 **servo-puppetry v1** | [makecode editor tutorial](https://makecode.microbit.org/beta#tutorial:github:ngagnonsci/servo-puppetry/beginner-servo) | [markdown / webpage tutorial](/servo-puppetry/beginner-servo) 
-
-**remove code between classes** | [blank micro:bit code](https://makecode.microbit.org/_RRiDe62eRFmH)
+-----------|------------|
+**remove code between classes** | [blank micro:bit code](https://makecode.microbit.org/_RRiDe62eRFmH) |
 
 ## Blocks preview
 
