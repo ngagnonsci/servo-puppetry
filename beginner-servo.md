@@ -1,6 +1,6 @@
 # micro bits and micro servos!
-Open this page at https://ngagnonsci.github.io/servo-puppetry/
-Follow or test the tutorial at https://makecode.microbit.org/#tutorial:github:ngagnonsci/servo-puppetry/README
+Open this page at https://ngagnonsci.github.io/servo-puppetry/beginner-servo
+Follow or test the tutorial at https://makecode.microbit.org/#tutorial:github:ngagnonsci/servo-puppetry/beginner-servo
 
 ## Welcome! @showdialog
 Welcome to the micro:bit! A small circuit board that we can program to do some wonderful and fun things!
@@ -68,5 +68,6 @@ servos.P0.setAngle(65)
 ## Finished! @showdialog
 Great job! Finish this tutorial and remember to download the code onto your micro:bit. 
 * What can you attach to the servo arm to make something fun out of this movement?
+* What else can you do by coding the micro:bit?
 
 ![Servo Example](https://ngagnonsci.github.io/servo-puppetry/images/servo-arm-example.gif)
