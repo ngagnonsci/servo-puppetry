@@ -1,6 +1,6 @@
 # micro bits and micro servos!
-Open this page at https://ngagnonsci.github.io/servo-puppetry/beginner-servo
-Follow or test the tutorial at https://makecode.microbit.org/#tutorial:github:ngagnonsci/servo-puppetry/beginner-servo
+* Open this page at [https://ngagnonsci.github.io/servo-puppetry/beginner-servo](https://ngagnonsci.github.io/servo-puppetry/beginner-servo)
+* Follow or test the tutorial at [https://makecode.microbit.org/#tutorial:github:ngagnonsci/servo-puppetry/beginner-servo](https://makecode.microbit.org/#tutorial:github:ngagnonsci/servo-puppetry/beginner-servo)
 
 ## Welcome! @showdialog
 Welcome to the micro:bit! A small circuit board that we can program to do some wonderful and fun things!
