@@ -43,18 +43,10 @@ From the ``||servos:servos||`` category, drag a ``||servos:set servo ___ angle t
 ```blocks
 servos.P0.setAngle(90)
 ```
+![Servo Diagram](https://ngagnonsci.github.io/servo-puppetry/images/servo-pic_angle.jpg)
 
 ## Step 8
-Our servo moves to that position, but just stays there. To move back and forth place another ``||servos:set servo ___ angle to ___||`` in to the code block, with a different angle.
-```blocks
-input.onButtonPressed(Button.A, function () {
-servos.P0.setAngle(90)
-servos.P0.setAngle(10)	
-})
-```
-
-## Step 9
-We can add even more angles to make the movement change. We can also add in ``||basic:pause __ ms||`` to our code to add time between the movements or slow it down.
+We can add even more angles to make the movement change. Computers work really fast though! So if we have more than one position add at least a 500ms ``||basic:pause __ ms||`` to the code so that the servo completes a movement before starting the next movement.
 ```blocks
 input.onButtonPressed(Button.A, function () {
 servos.P0.setAngle(90)
