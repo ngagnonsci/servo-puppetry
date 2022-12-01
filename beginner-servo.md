@@ -11,7 +11,7 @@ We can change the LEDs on the micro:bit to nearly anything we want. Let's have a
 
 
 ## Step 2
-Grab a ``||basic:show string (   )||`` block from the ``||basic:basic||`` category. Drag it into the ``||basic:on start||`` block on the right side of the screen and change what the string says.
+Inside the ``||basic:basic||`` category on the left of the screen, grab a ``||basic:show string (   )||`` block. Drag it into the ``||basic:on start||`` block on the right side of the screen and change what the string says. Click the hint (lightbulb) to see what the block looks like.
 ```blocks
 basic.showString("Hello!!!")
 ```
@@ -46,13 +46,24 @@ servos.P0.setAngle(90)
 ![Servo Diagram](https://ngagnonsci.github.io/servo-puppetry/images/servo-pic_angle.jpg)
 
 ## Step 8
-We can add even more angles to make the movement change. Computers work really fast though! So if we have more than one position add at least a 500ms ``||basic:pause __ ms||`` to the code so that the servo completes a movement before starting the next movement.
+We can add even more angles to make the movement change. Computers work really fast though! So if we have more than one position add at least a 500ms ``||basic:pause 500 ms||`` to the code so that the servo completes a movement before starting the next movement.
 ```blocks
 input.onButtonPressed(Button.A, function () {
 servos.P0.setAngle(90)
-basic.pause(100)
+basic.pause(500)
 servos.P0.setAngle(10)
-basic.pause(200)
+basic.pause(500)
+servos.P0.setAngle(65)
+})
+```
+
+## Step 10 @showdialog
+```blocks
+input.onButtonPressed(Button.A, function () {
+servos.P0.setAngle(90)
+basic.pause(500)
+servos.P0.setAngle(10)
+basic.pause(500)
 servos.P0.setAngle(65)
 })
 ```
