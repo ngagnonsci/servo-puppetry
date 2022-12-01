@@ -11,7 +11,7 @@ By the end of this workshop we will be able to make some cool things like this u
 
 THESE ARE PHOTOS OF EXAMPLES 
 MAYBE 2 OR 3 OF THEM
-
+![Amanda's Example](https://ngagnonsci.github.io/servo-puppetry/images/Amanda-servo-arm-example.gif)
 
 ## Step 2 @showdialog
 We can change the LEDs on the micro:bit to nearly anything we want. Let's have add a greeting by using a ``||basic:show string (   )||`` code block.
