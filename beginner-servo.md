@@ -6,21 +6,42 @@
 Welcome to the micro:bit! A small circuit board that we can program to do some wonderful and fun things!
 Click "Ok" when you instructor tells the whole class to.
 
-## Step 2 
-We can change the LEDs on the micro:bit to nearly anything we want. Let's have add a greeting for when it first starts up. Click next.
+## Examples! @showdialog
+By the end of this workshop we will be able to make some cool things like this using a micro:bit and a servo.
+
+THESE ARE PHOTOS OF EXAMPLES 
+MAYBE 2 OR 3 OF THEM
 
 
-## Step 3
-Inside the ``||basic:basic||`` category on the left of the screen, grab a ``||basic:show string (   )||`` block. Drag it into the ``||basic:on start||`` block on the right side of the screen and change what the string says. Click the hint (lightbulb) to see what the block looks like.
+## Step 2 @showdialog
+We can change the LEDs on the micro:bit to nearly anything we want. Let's have add a greeting by using a ``||basic:show string (   )||`` code block.
 ```blocks
 basic.showString("Hello!!!")
 ```
+
+## Step 3
+Inside the ``||basic:basic||`` category on the left of the screen, grab a ``||basic:show string (   )||`` block. Drag it into the ``||basic:on start||`` block on the right side of the screen and change what the string says. Click the hint (lightbulb) to see what these blocks look like.
+```blocks
+basic.showString("Hello!!!")
+```
+
+## Step 4 @showdialog
+Download your code by clicking the button on the bottom left of the screen to see how it changes on the micro:bit.
+
+ADD A PHOTO/GIF OF DOWNLOAD BUTTON
 
 ## Step 4
 Download your code by clicking the button on the bottom left of the screen to see how it changes on the micro:bit.
 
 ## Step 5
-After you've done that, change the message in the ``||basic:show string('hello')||`` to your name and download the code again.
+Awesome! Let's see what happens when we change some fo the code. 
+Change the message in the ``||basic:show string('hello')||`` to your name and download the code again.
+```blocks
+basic.showString("My Name")
+```
+
+## Step 5
+Change the message in the ``||basic:show string('hello')||`` to your name and download the code again.
 
 ## Step 6 @showdialog
 Great job! Let's get some movement into our programming too. Attach the alligator clips of your servo to the micro:bit.
@@ -45,8 +66,8 @@ servos.P0.setAngle(90)
 ```
 ![Servo Diagram](https://ngagnonsci.github.io/servo-puppetry/images/servo-pic_angle.jpg)
 
-## Step 9
-We can add even more angles to make the movement change. Computers work really fast though! So if we have more than one position add at least a 500ms ``||basic:pause 500 ms||`` to the code so that the servo completes a movement before starting the next movement. Click the hint to see an example of multiple movements!
+## Step 9 @showdialog
+We can add even more angles to make the movement change. Computers work really fast though! So if we have more than one position add at least a 500ms ``||basic:pause 500 ms||`` to the code so that the servo completes a movement before starting the next movement.
 ```blocks
 input.onButtonPressed(Button.A, function () {
 servos.P0.setAngle(90)
@@ -57,7 +78,9 @@ servos.P0.setAngle(65)
 })
 ```
 
-## Step 10 @showdialog
+## Step 10 
+We can add even more angles to make the movement change. Computers work really fast though! So if we have more than one position add at least a 500ms ``||basic:pause 500 ms||`` to the code so that the servo completes a movement before starting the next movement. Click the hint to see an example of multiple movements!
+
 ```blocks
 input.onButtonPressed(Button.A, function () {
 servos.P0.setAngle(90)
