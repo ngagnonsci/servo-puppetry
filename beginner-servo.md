@@ -2,6 +2,10 @@
 basic.pause(500)
 ```
 
+```template
+//
+```
+
 # micro bits and micro servos!
 * Open this page at [https://ngagnonsci.github.io/servo-puppetry/beginner-servo](https://ngagnonsci.github.io/servo-puppetry/beginner-servo)
 * Follow or test the tutorial at [https://makecode.microbit.org/#tutorial:github:ngagnonsci/servo-puppetry/beginner-servo](https://makecode.microbit.org/#tutorial:github:ngagnonsci/servo-puppetry/beginner-servo)
