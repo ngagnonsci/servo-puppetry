@@ -1,5 +1,3 @@
-### @explicitHints true
-
 ```blockconfig.global
 basic.pause(500)
 ```
@@ -107,5 +105,3 @@ Great job! Finish this tutorial and remember to download the code onto your micr
 * What else can you do by coding the micro:bit?
 
 ![Servo Example](https://ngagnonsci.github.io/servo-puppetry/images/servo-arm-example.gif)
-
-# config blocks 
