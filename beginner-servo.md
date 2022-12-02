@@ -90,6 +90,10 @@ servos.P0.setAngle(65)
 })
 ```
 
+```ghost
+basic.pause(500)
+```
+
 ## Step 10 @showhint
 Add more ``||servos:set servo ___ angle to ___||`` angles and ``||basic:pause 500 ms||`` blocks to the code.
 
