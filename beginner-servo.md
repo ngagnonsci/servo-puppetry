@@ -71,7 +71,7 @@ input.onButtonPressed(Button.A, function () {
 })
 ```
 
-## Step 8 
+## Step 8 @showhint
 From the ``||servos:servos||`` category, drag a ``||servos:set servo ___ angle to ___||`` into the ``||input:onButtonPressed()||`` code.
 ```blocks
 servos.P0.setAngle(90)
