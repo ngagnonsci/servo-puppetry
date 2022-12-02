@@ -2,6 +2,10 @@
 * Open this page at [https://ngagnonsci.github.io/servo-puppetry/beginner-servo](https://ngagnonsci.github.io/servo-puppetry/beginner-servo)
 * Follow or test the tutorial at [https://makecode.microbit.org/#tutorial:github:ngagnonsci/servo-puppetry/beginner-servo](https://makecode.microbit.org/#tutorial:github:ngagnonsci/servo-puppetry/beginner-servo)
 
+```blockconfig.global
+basic.pause(500)
+```
+
 ## Welcome! @showdialog
 Welcome to the micro:bit! A small circuit board that we can program to do some wonderful and fun things!
 Click "Ok" when you instructor tells the whole class to.
@@ -20,7 +24,6 @@ basic.showString("Hello!!!")
 ```
 
 ## Step 3 @showhint
-THIS IS A TEST OF @SHOWHINT
 Inside the ``||basic:Basic||`` category on the left of the screen, grab a ``||basic:show string (   )||`` block. Drag it into the ``||basic:on start||`` block on the right side of the screen and change what the string says. Click the hint (lightbulb) to see what these blocks look like.
 ```blocks
 basic.showString("Hello!!!")
@@ -83,8 +86,8 @@ servos.P0.setAngle(65)
 })
 ```
 
-## Step 10 
-Add more ``||servos:set servo ___ angle to ___||`` angles and ``||basic:pause 500 ms||`` blocks to the code. Check the hint (lightbulb) to see an example!
+## Step 10 @showhint
+Add more ``||servos:set servo ___ angle to ___||`` angles and ``||basic:pause 500 ms||`` blocks to the code.
 
 ```blocks
 input.onButtonPressed(Button.A, function () {
@@ -104,6 +107,3 @@ Great job! Finish this tutorial and remember to download the code onto your micr
 ![Servo Example](https://ngagnonsci.github.io/servo-puppetry/images/servo-arm-example.gif)
 
 # config blocks 
-```blockconfig.global
-basic.pause(500)
-```
