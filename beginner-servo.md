@@ -76,7 +76,7 @@ From the ``||servos:servos||`` category, drag a ``||servos:set servo ___ angle t
 ```blocks
 servos.P0.setAngle(90)
 ```
-![Servo Diagram](https://ngagnonsci.github.io/servo-puppetry/images/servo-pic_angle.jpg)
+![Servo Diagram](https://ngagnonsci.github.io/servo-puppetry/images/servo-with-degrees.jpg)
 
 ## Step 9 @showdialog
 We can add even more angles to make the movement change. Computers work really fast though! So if we have more than one position add at least a 500ms ``||basic:pause 500 ms||`` to the code so that the servo completes a movement before starting the next movement.
