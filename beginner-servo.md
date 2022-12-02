@@ -19,7 +19,7 @@ We can change the LEDs on the micro:bit to nearly anything we want. Let's have a
 basic.showString("Hello!!!")
 ```
 
-## Step 3
+## Step 3 @showhint
 Inside the ``||basic:Basic||`` category on the left of the screen, grab a ``||basic:show string (   )||`` block. Drag it into the ``||basic:on start||`` block on the right side of the screen and change what the string says. Click the hint (lightbulb) to see what these blocks look like.
 ```blocks
 basic.showString("Hello!!!")
