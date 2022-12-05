@@ -1,4 +1,4 @@
-```blockconfig.local
+```blockconfig.global
 basic.pause(500)
 ```
 
