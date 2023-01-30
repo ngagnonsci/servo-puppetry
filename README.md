@@ -7,7 +7,7 @@ As more projects / tutorials are updated, they can be found here.
 ## Tutorials
 **servo-puppetry v1** | [makecode editor tutorial](https://makecode.microbit.org/beta#tutorial:github:ngagnonsci/servo-puppetry/beginner-servo) | [webpage tutorial](/servo-puppetry/beginner-servo) 
 
-**Slideshow of Examples*** | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ6mN6wU_pzJM-83tnKZKeP_pk0jQSc1vSxjPuw_KYyz4gwfuje1dPCVsGf679lHscs3dfJgcexF8Ji/pub?start=true&loop=true&delayms=15000)
+**Slideshow of Examples** | [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ6mN6wU_pzJM-83tnKZKeP_pk0jQSc1vSxjPuw_KYyz4gwfuje1dPCVsGf679lHscs3dfJgcexF8Ji/pub?start=true&loop=true&delayms=15000)
 
 ## Blocks preview
 
