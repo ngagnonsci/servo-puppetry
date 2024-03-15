@@ -39,7 +39,7 @@ Download your code by clicking the button on the bottom left of the screen. Look
 Download your code by clicking the button on the bottom left of the screen to see how it changes on the micro:bit.
 
 ## Step 5 @showdialog
-Awesome! Let's see what happens when we change some fo the code. 
+Awesome! Let's see what happens when we change some of the code. 
 Change the message in the ``||basic:show string('hello')||`` to your name and download the code again.
 ```blocks
 basic.showString("My Name")
