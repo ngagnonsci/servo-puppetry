@@ -84,9 +84,8 @@ input.onButtonPressed(Button.A, function () {
 
 ## Step 8 @showhint
 From the ``||servos:servos||`` category, drag a ``||servos:set servo ___ angle to ___||`` into the ``||input:onButtonPressed()||`` code.
+Download the code to see how far your servo moves when you push the button!
 ```blocks
-Download the code to see how far your servo moves!
-
 input.onButtonPressed(Button.A, function () {
     servos.P0.setAngle(90)	
 })
@@ -96,6 +95,7 @@ input.onButtonPressed(Button.A, function () {
 
 ## Step 9 @showdialog
 We can add even more angles to make the movement change. Computers work really fast though! So if we have more than one position add at least a 500ms ``||basic:pause 500 ms||`` to the code so that the servo completes a movement before starting the next movement.
+Mimic the code below to make your servo move back and forth.
 ```blocks
 input.onButtonPressed(Button.A, function () {
 servos.P0.setAngle(90)
@@ -112,6 +112,7 @@ basic.pause(500)
 
 ## Step 10 @showhint
 Add more ``||servos:set servo ___ angle to ___||`` angles and ``||basic:pause 500 ms||`` blocks to the code.
+What happens when you change the angles and the pause times to something different?
 
 ```blocks
 input.onButtonPressed(Button.A, function () {
